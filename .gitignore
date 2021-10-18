@@ -3,6 +3,7 @@
 *.iws
 .gradle
 /gradle.properties
-.project
-.classpath
-.settings/
+/.settings/
+/target/
+/.classpath
+/.project
